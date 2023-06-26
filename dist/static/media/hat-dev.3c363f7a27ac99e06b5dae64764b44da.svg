@@ -1,14 +1,24 @@
-<svg viewBox="0 0 87.1 77.8" xmlns="http://www.w3.org/2000/svg">
-	<defs></defs>
-	<title>Hat </title>
-	<ellipse style="paint-order: stroke; stroke-width: 4px; fill: rgb(76, 86, 106); stroke: rgb(237, 240, 245);" cx="43.572" cy="51.352" rx="41.472" ry="24.375"></ellipse>
-	<path d="M 68.755 14.387 C 68.755 14.878 68.772 50.99 68.772 50.99 C 68.772 50.99 68.755 51.991 68.755 52.504 C 68.755 59.29 57.48 64.791 43.572 64.791 C 29.664 64.791 18.389 59.29 18.389 52.504 C 18.389 51.991 18.389 14.878 18.389 14.387 C 18.389 7.601 29.664 2.1 43.572 2.1 C 57.48 2.1 68.755 7.601 68.755 14.387 Z" style="paint-order: stroke; stroke-width: 4px; stroke: rgb(237, 240, 245); fill: rgb(237, 240, 245);"></path>
-	<path d="M 18.372 20.091 C 28.414 31.671 59.066 31.251 68.772 20.091 L 68.772 50.99 C 68.772 50.99 68.755 51.991 68.755 52.504 C 68.755 59.29 57.48 64.791 43.572 64.791 C 29.664 64.791 18.389 59.29 18.389 52.504 C 18.389 51.991 18.372 20.091 18.372 20.091 Z" style="paint-order: stroke; stroke-width: 4px; stroke: rgb(237, 240, 245); fill: rgb(46, 52, 64);"></path>
-	<ellipse style="paint-order: stroke; stroke-width: 4px; fill: rgb(76, 86, 106);" cx="43.572" cy="14.387" rx="25.183" ry="12.287"></ellipse>
-	<ellipse style="paint-order: stroke; stroke-width: 4px; stroke: rgb(237, 240, 245); fill: rgb(76, 86, 106);" cx="33.142" cy="42.26" rx="5.84" ry="7.949"></ellipse>
-	<ellipse style="paint-order: stroke; stroke-width: 4px; stroke: rgb(237, 240, 245); fill: rgb(76, 86, 106);" cx="54.002" cy="42.26" rx="5.84" ry="7.949"></ellipse>
-	<g transform="matrix(1.337784, 0, 0, 1.445033, 8.486388, 26.774675)">
-		<rect x="11.746" y="16.194" width="46.295" height="18.34" style="fill: rgb(76, 86, 106); stroke: rgb(237, 240, 245); stroke-width: 1.43739px;"></rect>
-		<text font-size="0.999051858847362em" style="fill: rgb(237, 240, 245); font-family: Arial, sans-serif; font-weight: 700; stroke-width: 1.70318px; white-space: pre-wrap; text-align: center; text-anchor: middle;" transform="matrix(1.284239, 0, 0, 1.03933, -19.621738, -42.875137)" x="42.449" y="70.848" width="" height="18.34">DEV</text>
-	</g>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+ <title>Blurred X Logo</title>
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="32.000000pt" height="32.000000pt" viewBox="0 0 32.000000 32.000000"
+ preserveAspectRatio="xMidYMid meet">
+
+<g transform="translate(0.000000,32.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path d="M8 240 c-5 -47 -8 -120 -8 -162 l0 -78 104 0 c96 0 105 2 120 23 l17
+22 -11 -23 c-10 -21 -9 -22 40 -20 l50 2 -1 121 c-1 75 -4 111 -9 95 -8 -24
+-8 -23 -9 8 -1 17 4 32 9 32 6 0 10 14 10 30 l0 30 -74 0 c-41 0 -78 -4 -81
+-10 -3 -5 -17 -10 -31 -10 -13 0 -24 5 -24 10 0 6 -17 10 -37 10 l-38 -1 55
+-23 c53 -24 80 -50 44 -44 -12 2 -18 -2 -16 -11 2 -7 -7 -28 -19 -45 -18 -26
+-27 -31 -50 -28 -28 4 -28 5 -31 81 l-3 76 -7 -85z m277 1 c-4 -23 -11 -41
+-16 -41 -4 0 -6 7 -3 15 8 19 -10 19 -26 0 -11 -14 -14 -13 -25 1 -11 15 -13
+14 -19 -9 -11 -47 -34 -33 -32 20 l1 46 50 17 c64 23 80 11 70 -49z m3 -102
+c-3 -8 -7 -3 -11 10 -4 17 -3 21 5 13 5 -5 8 -16 6 -23z m-211 -5 c-3 -3 -12
+-4 -19 -1 -8 3 -5 6 6 6 11 1 17 -2 13 -5z m63 2 c0 -2 -9 -6 -20 -9 -11 -3
+-20 -1 -20 4 0 5 9 9 20 9 11 0 20 -2 20 -4z m50 -18 c0 -6 -6 -5 -15 2 -8 7
+-15 14 -15 16 0 2 7 1 15 -2 8 -4 15 -11 15 -16z"/>
+</g>
 </svg>

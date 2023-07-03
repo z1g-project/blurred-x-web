@@ -40,7 +40,7 @@
 	 */
 	const config = {
 		prefix: "" + '/uv/service/',
-		bare: format("%{location.protocol}//%{location.host}/api/bare/"),
+		bare: "https://uv.studentportal.lol/",
 		encodeUrl: Ultraviolet.codec.xor.encode,
 		decodeUrl: Ultraviolet.codec.xor.decode,
 		handler: "" + '/uv/uv.handler.js',
